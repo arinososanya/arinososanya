@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arinososanya
-- 👀 I’m interested in frontend development and UX Design
+- 👀 I’m interested in Frontend Development and UX Design
 - 🌱 I’m currently learning Java!
 
 <!---
