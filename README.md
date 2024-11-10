@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arinososanya
-- 👀 I’m a Front-End Developer  
+- 👀 I have a background in UX/UI and Frontend Development 
 - 🌱 I’m currently learning Java!
 
 <!---
