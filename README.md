@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arin Ososanya
 
-Software engineer specialising in financial technology and trading systems, with a track record of winning hackathons and delivering impactful solutions.
+Software engineer specialising in front-end development, with a track record of delivering impactful solutions.
 
 ## 🏆 Hackathon Champion
 - **Google BGN Hackathon Winner (2021)**: Led development of an automated job-matching platform connecting African youth with remote opportunities
@@ -27,7 +27,7 @@ Software engineer specialising in financial technology and trading systems, with
 ## 💻 Technical Skills
 - **Languages**: Java, TypeScript, JavaScript
 - **Frontend**: React, Angular, HTML/CSS
-- **Backend**: Spring Boot, Node.js
+- **Backend**: Spring Boot, Node.js, SQL
 - **Tools**: Git, Swagger, Postman
 
 ## 🎓 Education & Training
