@@ -3,7 +3,7 @@
 Software engineer specialising in front-end development, with a track record of delivering impactful solutions.
 
 ## 🏆 Hackathon Champion
-- - **HackaFuture AtkinsRealis Hackathon Winner (2025)**: Created User Interface for Asset Management System, a platform for secure predictive maintenance
+- **HackaFuture AtkinsRealis Hackathon Winner (2025)**: Created User Interface for Asset Management System, a platform for secure predictive maintenance
 - **Google BGN Hackathon Winner (2021)**: Led development of an automated job-matching platform connecting African youth with remote opportunities
 - **Warwick Hack Winner (2021)**: Built intelligent recipe recommendation system with real-time API integration
 
