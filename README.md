@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Arin Ososanya
-
-Software engineer specialising in front-end development, with a track record of delivering impactful solutions.
+UX/UI Designer working at the intersection of design and technology.
 
 ## 🏆 Hackathon Champion
 - **HackaFuture AtkinsRealis Hackathon Winner (2025)**: Created User Interface for Asset Management System, a platform for secure predictive maintenance
